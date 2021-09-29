@@ -1,4 +1,4 @@
-# Capacitación 4: Visión 3D
+# Capacitación 5: Localización
 
 Durante la capacitación 5 se mostraron los conceptos de localizacion que se utilizan en la robótica móvil.
 
